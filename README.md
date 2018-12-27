@@ -1,2 +1,2 @@
-# eventdrivenai.github.io
+# eventdriven.ai
 eventDrivenAI home page
