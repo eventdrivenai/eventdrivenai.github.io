@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eventdriven.ai - Learn. Predict. Delight. - Flexible Event Driven AI framework</title>
+    <description>eventdriven.ai - Learn. Predict. Delight. - Flexible Event Driven AI framework.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Dec 2018 22:36:47 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 22:36:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Implementation services overview</title>
+        <description>&lt;p&gt;Implementation and maintenance of enterprise class software can be challenging even for most mature process-oriented organizations. Our team can provide expert guidance on implementation and integrating with existing ecosystem. We follow a four-step implementation process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assessment&lt;/li&gt;
+  &lt;li&gt;Pilot&lt;/li&gt;
+  &lt;li&gt;Implementation&lt;/li&gt;
+  &lt;li&gt;Ongoing Support &amp;amp; Transition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our implemantation cycle runs for 8 weeks. Here is our typical implementation plan:&lt;/p&gt;
+
+&lt;h2 id=&quot;assessment-1-week&quot;&gt;Assessment (1 week)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Evaluate the current landscape and provide fit gap assessment for the product&lt;/li&gt;
+  &lt;li&gt;Provide business and technical benefits&lt;/li&gt;
+  &lt;li&gt;Tailored demo of the product&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pilot-2-weeks&quot;&gt;Pilot (2 weeks)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provide a pilot run for identified use cases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;implementation-5-weeks&quot;&gt;Implementation (5 weeks)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provided tailored implementation for processing events and governing and managing data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ongoing-support--transition-4-weeks&quot;&gt;Ongoing Support &amp;amp; Transition (4 weeks)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will continue to work with you after we deliver the product and transition to your support team for ongoing maintenance&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/implementation%20services%20overview/2018/10/15/eventdriven-ai-implementation-services-overview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/implementation%20services%20overview/2018/10/15/eventdriven-ai-implementation-services-overview.html</guid>
+        
+        
+        <category>Implementation services overview</category>
+        
+      </item>
+    
+      <item>
+        <title>Use eventdriven AI to enhance Customer Experience with realtime decisions</title>
+        <description>
+</description>
+        <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/customer%20experience/eventdriven%20ai/2018/10/12/use-eventdriven-ai-to-enhance-customer-experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/customer%20experience/eventdriven%20ai/2018/10/12/use-eventdriven-ai-to-enhance-customer-experience.html</guid>
+        
+        
+        <category>Customer Experience</category>
+        
+        <category>eventdriven AI</category>
+        
+      </item>
+    
+      <item>
+        <title>eventdriven.ai - Scalable and Extensible platform for realtime AI decisions</title>
+        <description>&lt;p&gt;Realtime Data Processing (RDP) hub is an extensible framework for processing event data and creating adhoc analytics, dashboards, scorecards and reports. RDP hub consists of four basic components event driven framework, rules engine, data storage and Analytics. The event driven framework supports plugin for capturing data from multiple data sources containing both structured and unstructured data like xml, csv, json, attributes, image, text, etc….&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/realtime%20data%20processing/eventdriven/2018/10/03/eventdriven-ai-platform-for-realtime-decisions.html</link>
+        <guid isPermaLink="true">http://localhost:4000/realtime%20data%20processing/eventdriven/2018/10/03/eventdriven-ai-platform-for-realtime-decisions.html</guid>
+        
+        
+        <category>Realtime data processing</category>
+        
+        <category>eventdriven</category>
+        
+      </item>
+    
+      <item>
+        <title>Realtime Data Processing (RDP) hub is now eventdriven.ai</title>
+        <description>&lt;p&gt;Realtime Data Processing (RDP) hub is an extensible framework for processing event data and creating adhoc analytics, dashboards, scorecards and reports. RDP hub consists of four basic components event driven framework, rules engine, data storage and Analytics. The event driven framework supports plugin for capturing data from multiple data sources containing both structured and unstructured data like xml, csv, json, attributes, image, text, etc….&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/realtime%20data%20processing/eventdriven/2018/10/01/realtime-data-processing-hub-is-now-eventdriven-ai.html</link>
+        <guid isPermaLink="true">http://localhost:4000/realtime%20data%20processing/eventdriven/2018/10/01/realtime-data-processing-hub-is-now-eventdriven-ai.html</guid>
+        
+        
+        <category>Realtime data processing</category>
+        
+        <category>eventdriven</category>
+        
+      </item>
+    
+      <item>
+        <title>EventDriven makes it to Top 10 Strategic Technology Trends for 2018</title>
+        <description>&lt;p&gt;Gartner names &lt;a href=&quot;https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/&quot;&gt;Top 10 Strategic Technology Trends for 2018&lt;/a&gt;. AI and eventdriven made to the list of top technology trends for 2018&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gartner Published a report in October 2017 on Top 10 Strategic Technology Trends for 2018.&lt;/li&gt;
+  &lt;li&gt;Event Driven was a new entry compared to Strategic trends for 2017&lt;/li&gt;
+  &lt;li&gt;Why Event Driven? - Digital businesses will continue to rely on the ability to sense and be ready to exploit new digital business moments through Events&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is an excerpt from Gartner article on importance of event driven architecture.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With the advent of AI, the IoT, and other technologies, business events can be detected more quickly and analyzed in greater detail. Enterprises should embrace ‘event thinking’ as part of a digital business strategy. By 2020, event-sourced, real-time situational awareness will be a required characteristic for 80% of digital business solutions, and 80% of new business ecosystems will require support for event processing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/strategic%20technology%20trends/eventdriven/2018/09/03/top-ten-technology-trends-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/strategic%20technology%20trends/eventdriven/2018/09/03/top-ten-technology-trends-2018.html</guid>
+        
+        
+        <category>Strategic technology trends</category>
+        
+        <category>eventdriven</category>
+        
+      </item>
+    
+  </channel>
+</rss>
