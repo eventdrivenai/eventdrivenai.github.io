@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[eventdriven.ai][home] is a Flexilible, Scalable and Extensible event driven AI framework that can make real-time decisions. The product is developed and maintained by [Sreemaata Technologies][sreemaata]. The product would dovetail with your existing enterprise software ecosystem as it is built with open technologies that adheres to open standards.  
 
 
-[jekyll-organization]: https://github.com/jekyll
+# Our Vision
+> Our vision is to help companies make intelligent real-time decisions through our event driven AI platform with a simple strategy of "Learn, Predict, Delight" and Repeat.     
+
+# Our Mission
+> We believe that technology is one of the greatest change-agent for any company. Through technology breakthroughs and innovative solutions, our mission is to deliver nimble solutions that will help transform your business. 
+
+# Our Team
+
+Our Team has years of experience in successfully developing and implementing enterprise class software projects. We are committed to helping our customers, with the highest quality standard for our products and services.
+
+# Opportunities
+
+We are looking for passionate and inquisitive members to join our product development team. If you are interested learning more about our opportunities, please send a note to careers\<at\>eventdriven\<dot\>ai.
+
+[home]: http://eventdriven.ai
+[sreemaata]: http://sreemaata.com
