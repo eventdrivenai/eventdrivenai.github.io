@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementation services overview"
 author: sriram
-categories: [ Implementation-services-overview ]
+categories: [ Implementation, services, overview ]
 image: assets/images/implementation.jpg
 featured: true
 ---

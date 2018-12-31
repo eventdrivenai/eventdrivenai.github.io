@@ -2,7 +2,7 @@
 layout: post
 title:  "eventdriven.ai - Scalable and Extensible platform for realtime AI decisions"
 author: sriram
-categories: [ Realtime-data-processing, eventdriven ]
+categories: [ Realtime, data, processing, eventdriven ]
 image: assets/images/rdp.jpg
 featured: true
 ---
