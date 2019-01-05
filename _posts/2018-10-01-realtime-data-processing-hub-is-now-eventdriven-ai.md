@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Realtime Data Processing (RDP) hub is now eventdriven.ai"
-author: sriram
 categories: [ Realtime, data, processing, RDP, framework, eventdriven ]
 image: assets/images/RDPisEventDriven2mp.jpg
 ---

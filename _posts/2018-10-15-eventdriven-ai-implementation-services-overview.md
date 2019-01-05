@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Implementation services overview"
-author: sriram
 permalink: /services-overview/
 categories: [ Implementation, services ]
 image: assets/images/implementation.jpg

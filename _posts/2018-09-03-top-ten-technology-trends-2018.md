@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "EventDriven makes it to Top 10 Strategic Technology Trends for 2018"
-author: sriram
 categories: [ Strategic, technology, trends, eventdriven, Gartner ]
 image: assets/images/2018-Top-10-Strategic-Tech-Trends.jpg
 ---
