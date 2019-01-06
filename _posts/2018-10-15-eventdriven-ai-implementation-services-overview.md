@@ -14,7 +14,7 @@ Implementation and maintenance of enterprise class software can be challenging e
 * Implementation
 * Ongoing Support & Transition
 
-Our core implemantation cycle runs for 8 weeks and we provide additional 4 weeks of support after the go live. Here is our typical implementation timeline:
+Our core implementation cycle runs for 8 weeks and we provide additional 4 weeks of support after the go live. Here is our typical implementation timeline:
 
 ## Assessment (1 week)
 + Evaluate the current landscape and provide fit gap assessment for the product
