@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[eventdriven.ai][home] is a Flexilible, Scalable and Extensible event driven AI framework that can make real-time decisions. The product is developed and maintained by [Sreemaata Technologies][sreemaata]. The product would dovetail with your existing enterprise software ecosystem as it is built with open technologies that adheres to open standards.  
+[eventdriven.ai][home] is a Flexilible, Scalable and Extensible event driven AI framework that can make real-time decisions. The product is developed and maintained by [Visra Incorporation][visra]. The product would dovetail with your existing enterprise software ecosystem as it is built with open technologies that adheres to open standards.  
 
 
 # Our Vision
@@ -21,5 +21,5 @@ Our Team has years of experience in successfully developing and implementing ent
 
 We are looking for passionate and inquisitive members to join our product development team. If you are interested learning more about our opportunities, please send a note to careers\<at\>eventdriven\<dot\>ai.
 
-[home]: http://eventdriven.ai
-[sreemaata]: http://sreemaata.com
+[home]: https://www.eventdriven.ai
+[visra]: https://visra.com
